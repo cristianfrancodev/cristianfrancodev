@@ -7,7 +7,7 @@ Actualmente trabajando en mi incersión al mundo laboral de la programación, po
 Realicé mi formación inicial en Javascript , HTML5 y CSS.
 
 
-- 🔭 Actualmente trabajando en (https://cristianfrancodev.github.io/) 
+- 🔭 Actualmente trabajando en (https://cristianfrancodev.github.io/pelus/) 
 - 🌱 Aprendiendo React.
 
 
