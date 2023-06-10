@@ -3,7 +3,7 @@
 ###  Soy Cristian
 #### Desarrollador Front-End en crecimiento!
 
-Actualmente trabajando en mi incersión al mundo laboral de la programación, poseo perfil científico proviniendo de la industria química como **Analista**.
+Actualmente trabajando en mi insersión al mundo laboral de la programación, poseo perfil científico proviniendo de la industria química como **Analista**.
 Realicé mi formación inicial en Javascript , HTML5 y CSS.
 
 
